@@ -1,0 +1,14 @@
+/* Test: body should have no margin */
+body {
+    margin: 0 !important;
+}
+
+/* Test: body should have no padding */
+body {
+    padding: 0 !important;
+}
+
+/* Test: body should use border-box sizing */
+body {
+    box-sizing: border-box !important;
+}
